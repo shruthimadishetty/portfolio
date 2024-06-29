@@ -1,10 +1,13 @@
 import React from 'react'
 import skills from '../Data/Skills.json';
 import './Skills.css'
+import Navbar from '../../Components/Navbar/Navbar';
+
 
 const Skills = () => {
   return (
     <>
+      <Navbar/>
       <div className="container_skills" id="skills">
         <h1>SKILLS</h1>
         <div className="items">

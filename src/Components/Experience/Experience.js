@@ -1,6 +1,7 @@
 import React from 'react'
 import experience from '../Data/Experience.json';
 import './Experience.css';
+import Navbar from '../../Components/Navbar/Navbar';
 
 
 
@@ -14,6 +15,7 @@ const Experience = () => {
           
           return (
             <>
+              <Navbar/>
               <div
                 key={data.id}
                 className="ex-items text-center my-5"

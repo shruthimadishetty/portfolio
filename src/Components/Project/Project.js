@@ -1,10 +1,12 @@
 import React from "react";
 import project from "../Data/Project.json";
 import "./Project.css";
+import Navbar from "../../Components/Navbar/Navbar";
 
 const Project = () => {
   return (
     <>
+      <Navbar />
       <div className="container_projects" id="projects">
         <h1>PROJECTS</h1>
         <div className="project_cards">
