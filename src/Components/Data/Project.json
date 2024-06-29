@@ -1,0 +1,34 @@
+[
+    {
+      "key": 1,
+      "title": "HTML and CSS",
+      "imageSrc": "./logos/project_html_css.png",
+      "description": "This is a project made with complete HTML and CSS.",
+      "demo": "https://github.com/shruthimadishetty/html_css_project",
+      "source": "https://gilded-gingersnap-474afb.netlify.app/"
+    },
+    {
+      "key": 2,
+      "title": "Code Editor",
+      "imageSrc": "./logos/project_codeeditor.png",
+      "description": "This is a project made with complete Html,Css and js.",
+      "demo": "https://runsole.netlify.app/",
+      "source": "https://github.com/shruthimadishetty/code_Editor"
+    },
+    {
+      "key": 3,
+      "title": "Travel Landing",
+      "imageSrc": "./logos/project_js.png",
+      "description": "This is a project made with complete html,css and js.",
+      "demo": "https://shruthimadishetty.github.io/travel/",
+      "source": "https://github.com/shruthimadishetty/travel"
+    },
+    {
+      "key": 4,
+      "title": "React Artifical -Intelligence",
+      "imageSrc":"./logos/project_react.png",
+      "description": "This is a project made with complete React js.",
+      "demo": "https://shruthi-artificial-intelligence.netlify.app/",
+      "source": "https://github.com/shruthimadishetty/artificial-intelligenc"
+    }
+  ]

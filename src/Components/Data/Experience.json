@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "role": "React developer Training",
+      "organisation": "CarrierPedia",
+      "startDate": "April, 2024",
+      "endDate": "Present",
+      "location": "Hyderabad, India",
+      "imageSrc": "./logos/carrierpedia_logo.png",
+      "experiences": [
+        "Get trained on React.js",
+        "Working with real time projects"
+      ]
+      
+    },
+    {
+      "id": 2,
+      "role": "Front end Developer",
+      "organisation": "Marmeto",
+      "startDate": "Jan, 2023",
+      "endDate": "May, 2023",
+      "location": "Bangalore, India",
+       "imageSrc": "./logos/marmeto_logo.png",
+      "experiences": [
+        "Worked as an shopfiy Front end developer",
+        "Worked on E-commerce website"
+      ]
+     
+    },
+    {
+      "id": 3,
+      "role": "HR-Associate",
+      "organisation": "Tenpath",
+      "startDate": "Sep, 2016",
+      "endDate": "May, 2018",
+      "location": "Hyderabad, India",
+       "imageSrc": "./logos/tenpath_logo.png",
+      "experiences": [
+        "Worked on different job portal",
+        "Shortlist the candidate"
+      ]
+     
+    }
+  ]
