@@ -18,7 +18,7 @@ const Contact = () => {
           data-aos-duration="1000"
         >
           <a
-            href="https://www.google.com"
+            href="https://www.instagram.com/"
             target="_blank"
             className="items"
             rel="noreferrer"
@@ -26,7 +26,7 @@ const Contact = () => {
             <FaInstagram className="icons" />
           </a>
           <a
-            href="https://www.google.com"
+            href="https://www.facebook.com"
             target="_blank"
             className="items"
             rel="noreferrer"
@@ -34,7 +34,7 @@ const Contact = () => {
             <CiFacebook className="icons" />
           </a>
           <a
-            href="https://www.google.com"
+            href="https://www.linkedin.com/"
             target="_blank"
             className="items"
             rel="noreferrer"
@@ -42,7 +42,7 @@ const Contact = () => {
             <CiLinkedin className="icons" />
           </a>
           <a
-            href="https://www.google.com"
+            href="https://www.twitter.com"
             target="_blank"
             className="items"
             rel="noreferrer"
@@ -58,7 +58,7 @@ const Contact = () => {
             <FaGithubSquare className="icons" />
           </a>
           <a
-            href="mailto:webdevmastery@gmail.com"
+            href="https://www.gmail.com/"
             target="_blank"
             className="items"
             rel="noreferrer"

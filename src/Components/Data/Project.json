@@ -4,8 +4,8 @@
       "title": "HTML and CSS",
       "imageSrc": "./logos/project_html_css.png",
       "description": "This is a project made with complete HTML and CSS.",
-      "demo": "https://github.com/shruthimadishetty/html_css_project",
-      "source": "https://gilded-gingersnap-474afb.netlify.app/"
+      "demo": "https://gilded-gingersnap-474afb.netlify.app/",
+      "source": "https://github.com/shruthimadishetty/html_css_project"
     },
     {
       "key": 2,
@@ -29,6 +29,6 @@
       "imageSrc":"./logos/project_react.png",
       "description": "This is a project made with complete React js.",
       "demo": "https://shruthi-artificial-intelligence.netlify.app/",
-      "source": "https://github.com/shruthimadishetty/artificial-intelligenc"
+      "source": "https://github.com/shruthimadishetty/artificial-intelligence"
     }
   ]
