@@ -68,3 +68,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Portfolio Project Documentation
+Introduction
+This portfolio project is a personal web application created using React.js. It showcases various aspects of my professional experience, skills, projects, and education. The project features a clean, responsive design and dynamically displays content from JSON files, including images stored locally.
+
+Main Components
+Header
+The Header component includes the navigation menu and a brief introduction. It is displayed at the top of the portfolio.
+
+About
+The About component provides a section to describe yourself, your background, and your professional goals.
+
+Experience
+The Experience component dynamically displays professional experience from a JSON file.
+
+Projects
+The Projects component displays project details from a JSON file, including images.
+
+Contact
+The Contact component provides a form or contact information for visitors to reach out.
+
+JSON Data
+The JSON files in the data directory contain structured data for experience and projects.
+
+Image Handling
+Images for projects are stored in the src/Assets/images directory. Ensure that the filenames in the JSON data match the actual filenames in this directory.
+
+Conclusion
+This documentation provides an overview of the portfolio project, including the setup instructions, main components, and data handling. Customize and extend the components and data as needed to make the portfolio truly reflect your skills and experiences.
+
+
